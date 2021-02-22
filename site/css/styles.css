@@ -1,0 +1,179 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Bitter', serif;
+    background-color: #EAF6F6;
+}
+
+h1, h2, h3, h4, h5 {
+    color: #66BFBF;
+}
+
+/****************************************** TOP CONTAINER *********************************/
+.top-container {
+    text-align: center;
+    margin: 0;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 150px;
+    top: 40px;
+}
+
+.title {
+    margin-top: 120px;
+    margin-bottom: 5px;
+    font-family: "Courgette", cursive;
+    font-size: 300%;
+    font-weight: bold;
+
+}
+
+.subtitle {
+    margin-top: 0;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 150px;
+}
+
+.mountain {
+    width: 50%;
+    margin-top: 40px;
+}
+
+/***************************************** MIDDLE CONTAINER ********************************/
+
+.middle-container {
+    background-color: white;
+    margin: 0;
+}
+
+.profile-img {
+    height: 230px;
+    width: 230px;
+    margin-top: 80px;
+    border-radius: 120px;
+}
+
+.intro-title {
+    font-size: 200%;
+}
+
+.intro {
+    line-height: 0.5;
+}
+
+.dots {
+    font-size: 400%;
+    color: #40514E;
+    padding-bottom: 30px;
+}
+
+
+/****************************************** SKILLS CONTAINER *****************************/
+
+.skills-container {
+    background-color: white;
+    margin-top: -50px;
+    padding-top: 25px;
+}
+
+.skills-main-title {
+    margin-bottom: 50px;
+}
+
+.coding-img {
+    height: 150px;
+    width: 150px;
+    border-radius: 150px;
+    float: left;
+    margin-left: 100px;
+    margin-right: 40px;
+}
+
+.skills-title-1 {
+    text-align: left;
+}
+
+.skills-text-1 {
+    text-align: left;
+    padding-right: 250px;
+    margin-bottom: 100px;
+}
+
+.pepper-img {
+    height: 150px;
+    width: 150px;
+    border-radius: 150px;
+    float: right;
+    margin-right: 100px;
+    margin-left: 40px;
+}
+
+.skills-title-2 {
+    text-align: right;
+}
+
+.skills-text-2 {
+    text-align: right;
+    padding-left: 250px;
+    margin-bottom: 130px;
+}
+
+/********************************  CONTACT CONTAINER ****************************/
+
+.contact-container {
+    background-color: white;
+    margin-top: -50px;
+    padding-top: 25px;
+    padding-bottom: 35px;
+}
+
+.contact-title {
+    font-size: 2rem;
+    margin-bottom: 35px;
+}
+
+.contact-subtitle {
+    margin-bottom: 35px;
+}
+
+.contact-text {
+    line-height: 1.3;
+    margin-bottom: 50px;
+}
+
+.contact-link {
+    text-decoration: none;
+    color: white;
+    font-size: 1rem;
+    letter-spacing: 2px;
+    background-image: linear-gradient(#a3d8d8, #66BFBF);
+    padding: 6px;
+    border-radius: 5px;
+    margin-bottom: 35px;
+}
+
+/***********************************  FOOTER SECTION  ***************************/
+.footer {
+    text-align: center;
+    background-color: #66BFBF;
+    margin-bottom: -15px;
+    padding-top: 20px;
+}
+
+.footer-link {
+    text-decoration: none;
+    color: #11999E;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-bottom: 35px;
+}
+
+.copyright {
+    color: white;
+    padding-bottom: 5px;
+}
