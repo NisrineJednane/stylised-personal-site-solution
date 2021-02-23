@@ -10,7 +10,8 @@ h1, h2, h3, h4, h5 {
 }
 
 p {
-    color: #40514E;
+    color: #010203;
+    font-weight: bold;
 }
 
 /****************************************** TOP CONTAINER *********************************/
@@ -106,6 +107,7 @@ p {
     text-align: left;
     padding-right: 250px;
     margin-bottom: 100px;
+    line-height: 1.3;
 }
 
 .pepper-img {
@@ -125,6 +127,7 @@ p {
     text-align: right;
     padding-left: 250px;
     margin-bottom: 130px;
+    line-height: 1.3;
 }
 
 /********************************  CONTACT CONTAINER ****************************/
